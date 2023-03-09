@@ -1,0 +1,140 @@
+Case Study of Cloud Computing
+
+1. Amazon EC2 Case Study
+Amazon Elastic Compute Cloud (Amazon EC2) offers the broadest and deepest compute platform,
+with over 500 instances and choice of the latest processor, storage, networking, operating system.
+Amazon EC2 is the first major cloud provider that supports Intel, AMD, and Arm processors, the only
+cloud with on-demand EC2 Mac instances, and the only cloud with 400 Gbps Ethernet networking. It
+offers the best price performance for machine learning training, as well as the lowest cost per
+inference instances in the cloud. 
+Amazon EC2 provides the broadest and deepest instance choice to
+match your workload’sneeds. General purpose, compute optimized, memory optimized, storage
+optimized, and accelerated computing instance types are available that provide the optimal
+compute, memory,storage, and networking balance for various workloads. Processors from Intel,
+AMD, NVIDIA and AWS power these instance types and provide additional performance and cost
+optimizations. Local storage and enhanced networking options available with instance types further
+help optimize performance for workloads that are disk or network I/O bound. Many instance types
+also offer bare metal instances that provide your applications with direct access to the processor and
+memory of the underlying server for running in non-virtualized environments or for applications
+where user want to use his/her own hypervisor. User can also use the AWS Compute Optimizer to
+get recommendations on optimal AWS Compute resources for your workloads to reduce costs and
+improve performance.
+
+ 2.What Is Microsoft Azure?
+Microsoft Azure is a Microsoft cloud service provider that provides cloud computing services like
+computation, storage, security and many other domains. Microsoft is one of the global leaders when
+it comes to Cloud solutions and global cloud infrastructure. Microsoft Azure provides services in 60+
+global regions and serves in 140 counties. It provides services in the form of Infrastructure as a
+service, Platform as a Service and Software as a service. It even provides serverless computing
+meaning, developer need to put his/her own code and all his/her backend activities as managed by
+Microsoft Azure. It easily integrates with Microsoft Products making it very popular using Microsoft
+products. This platform is now 10 years old and it picked up to compete with the best of the best.
+Advantages
+
+On-Demand Scalability Application Hosting can never be sure of how many resources are enough
+and how many are too much. This is the nature of businesses that rely on varying traffics. Microsoft
+Azure helps user to save all this effort. Microsoft Azure ensures users applications and data is
+distributed well enough that means user never run short of Server space. It also means applications
+do not run on a single server making them available even in awful situations. Since these resources
+are properly clustered out and they can scale at will and in no time, your applications function very
+differently then they would in an on-premise architecture.
+
+Cost Effective
+One of the major benefits with cloud service providers is the cut down of upfront costs. Since user
+can configure and scale as needed, hence not required to invest heavily here. Microsoft Azure
+ensures small scale investment does not require upfront costs. Also, when it comes to people who
+have signed up contracts, they get heavy discounts. It also offers to Pay as go, model, meaning user
+get cost-cutting in the right sense.Hybrid EnvironmentsThey say cloud is not a one fit solution for all.
+It is true indeed because every business will have its own set of problems. And not all businesses will
+always be in a state where theycan migrate to the cloud entirely. While other platforms suffer here,
+as people either haveto migrate to those platforms or call it off totally, Microsoft Azure benefits with
+its Hybrid approach. Meaning, with Microsoft Azure user can build Hybrid infrastructures, where
+resources can partially reside on the cloud and can partially operate from an on- premise
+infrastructure. Hence users are safe from costly workaround.
+
+Big data Applications Hadoop and Big data are the need of the hour. With data increasing
+exponentially we need applications that can help process this data. Microsoft Azure brings this
+capability of processing large volumes of data on top of its cloud platform. Azure HDinsight ensures
+user can use Apache Hadoop as a cloud solution. This is a power-packed service that lets user deal
+with large data volumes. That means users data crunching becomes easier. It also readily integrates
+with data visualization tools and also lets user move data to excel. This means data visualization
+concerns are resolved quickly. With excel user can create visualizations and with PowerBI integrating
+with Microsoft Azure users data be converted into any visual that you require
+
+Integration Capabilities Microsoft has been in the software industry for decades. It has wide reach
+in the software market and not many can compete with it when it comes to customer base and stack
+of products it offers. The advantage for Microsoft Azure here is that it readily integrates with most of
+these products. Be it, connecting to SaaS, PaaS, IaaS applications or even something like Visual
+Studio or Active Directory, Microsoft Azure. Hence user can now leverage ERPs and CRMs to
+enhance business capacity to a greater level
+
+Storage and Security:- Storage is very critical to any application. It is no different for applications
+running on cloud. The volume of data we handle these days is huge. It also comes in different
+formats and from different sources. Storage resources have to adept enough to handle this data.
+Microsoft Azure lets user store data in form of files, objects, structured and unstructured data and a
+lot more. This happens reliable and securely.Talking of security Microsoft Azure ensures high level of
+security for user applications. It ensures all the resources in Azure cloud are guarded with firewalls
+and data is moved over the network with encryption. User have access to authentication and access
+management meaning user data and application are secure to the core. Scheduling and Automation
+Everyone hates doing repetitive tasks.
+
+ Use Cases of Microsoft Azure Microsoft has many popular customers out there, here are
+some use cases for you,
+ ➢ University Of Toronto
+This is the largest Canadian university and leads the global front when it comes to research at an
+institutional fare. It made use of Microsoft Azure to avoid heavy hardware renewal costs. It migrated
+some of its activities to Microsoft Azure Cloud. With it, the university managed to transform IT
+processes, saving a lot of time
+➢ AkzoNobel AkzoNobel is a popular Dutch Company that leads way in paint and coating business.
+It serves in more than 100 countries and always needs better connectivity across the globe.
+Itharnessed the power of Microsoft Azure IoT services to improve its performance and
+➢ IHG (Intercontinental Hotel Group)
+This is one of the largest and leading hotel groups in the world. It owns around 5200properties
+across the globe and serves more than a hundred countries. The fact that you own 5200 properties
+tells you the group holds its values of service very truly and also must have experimented a lot to
+stay up to date with market needs as well. This fact is also supported by the fact that this group
+invests a lot of money in innovations to meet the experience quality the customers deserve. The
+company has many of its tools that require Agile practices. It already was based on Azure Cloud
+platform. 
+This is when they decided to use DevOps Services on MicrosoftAzure. Ever since it has
+moved to Azure StorSimple, which is a hybrid storage service for enterprises. The group has achieved
+great results when it comes to storing data. It has helped them save more 70 percent in terms of
+cost. This is something that was initiated four years ago. It needed very little support in setting up
+and does require too much intervention when it comes to administrative attention.
+
+
+3.Google Cloud: Platform, offered by Google, is a suite of cloud computing services that runs on the
+same infrastructure that Google uses internally for its end-user products, such as GoogleSearch,
+Gmail, Google Drive, and YouTube.
+Why Google Cloud
+
+1.Run your apps wherever you need them Avoid vendor lock-in with Google Cloud’s commitment to
+open source, multicloud, and hybrid cloud—allowing you to use your data and run your apps on any
+cloud or in any environment.
+2. Make smarter decisions with the leading data platform :- Make smarter decisions with the leading
+data platformMaximize insights from your data with Google Cloud’s machine learning and
+advancedanalytics capabilities. Our serverless data analytics and machine learning platform helps
+you automate processes, make intelligent predictions, and streamline management and operations.
+3. Run on the cleanest cloud in the industry: Power your workloads on a net carbon-neutral cloud.
+Electricity used to run Google Cloudproducts and services is matched 100% with renewable energy.
+As the only major cloud provider to purchase enough renewable energy to cover all operations,
+Google Cloud offers your business a path to sustainability.
+4.Operate confidently with advanced security tools:- Google Cloud protects your data, applications,
+infrastructure, and customers from fraudulent activity, spam, and abuse with the same
+infrastructure and security services Google uses. Google Cloud’s networking, data storage, and
+compute services provide data encryption at rest, in transit, and in use. Advanced security tools
+support compliance and data confidentiality.
+5.Save money, increase efficiency, and optimize spend:- 86% of Google Cloud customers agree that
+"Google Cloud helped increase their operational efficiency and optimize IT spend," according to a
+TechValidate study. Google Cloud saves you money with our transparent and innovative approach to
+pricing. Reduce time spent on platform management by 40% to 55% with Anthos. Save up to 32%
+when you migrate applications to Google Cloud versus running them on-premises.
+Trust and security:
+Trusted cloud infrastructure Take advantage of the same secure-by-design infrastructure, built-in
+protection, and global network that Google uses to protect your information, identities, applications,
+and devices. Our stack builds security through progressive layers that deliver true defense in depth
+at scale.
+Encryption by default, at rest and in transit
+We encrypt data in transit between our facilities and at rest, ensuring that it can only be accessed by
+authorized roles and services with audited access to the encryption keys. Learn more about how we
+encrypt data at rest and how we encrypt data in transit.

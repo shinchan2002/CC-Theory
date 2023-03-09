@@ -1,0 +1,29 @@
+AIM: Study Cloud Security management
+ (Security Management on Azure)
+Steps to create account in Microsoft azure
+1.search on google azure.microsoft.com
+2.click on start free
+3.create a account or sign in account
+4.microsoft azure screen is open
+5.search enterprise application
+6.browse azure id gallery > dropbox business
+Click on create
+7.click on assign user and group access
+8.users and group
+9.add assignment
+Click on Select
+10.click on single-sign-on
+
+Basic SAML configuration edit
+Reply url:- https://www.dropbox.com/saml_login
+Sign on url:- https://www.dropbox.com/saml_login
+SAML CERTIFICATE > download certificate
+
+11.download my app secure sign-in extension
+12.click on set up dropbox business
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+Aim: Study and implementation of Infrastructure as a Service.
+Download the OwnCloud X Server from the link below.(It only works with
+64bit
+system)
+https://owncloud.com/download/
+Once you visit the above link click on "DOWNLOAD".
+Open VMware. Click on "Open a Virtual Machine".
+click on "Power on this virtual machine".
+Following window will appear.
+On next window it will ask you for your “city, don’t enter any city name in
+it andjust click “NEXT” (Most important step please don’t enter any city
+name in it otherwise it will not read keyboard entries).
+Just click “NEXT” on “Localization settings” window.
+It will fetch IP Address, Net Mask and Gateway from DHCP, don’t changeanything and just click “NEXT”.
+In Domain setup click “NEXT”.
+Now Account information window will appear, enter details in it.
+Remember
+that password we are setting is for “root” and “Administrator”, click on
+“NEXT”
+On next window it will show you Fully Qualified domain name and LDAP
+base,
+click on “NEXT”.
+It will show the configuration settings for owncloud scroll down a little and
+click
+on “CONFIGURE SYSTEM”
+It will take time to setup.
+Yes setup is done now click on “FINISH”.
+Now on next window press any button.
+Now you can see the IP address on top right hand side, open the browser
+and
+enter system’s IP address in URL bar and press enter.
+It will ask you for Email ID to send license, enter your Email ID and click
+“REQUEST ACTIVATION”.
+Check your mail box you will receive the license from OwnCloud, download it.
+Get back to OwnCloud and click on “UPLOAD LICENSE FILE”.
+Now select the license file and click “Open”.
+On next page click on “FINISH”.
+Yes we have installed OwnCloud, now just try logging in with “Administrator” as
+user for that click on button.
+Enter “Administrator” as user name and the password which you set during
+setting up process and click on “LOGIN”.
+Yes we have logged in successfully, now click on button.
+Yes we successfully completed OwnCloud installation.
